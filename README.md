@@ -8,3 +8,5 @@ un nouvelle modification
 
 ## Modules
 - Calcul mathématique
+## Fonctionnalités
+- Module de calcul
