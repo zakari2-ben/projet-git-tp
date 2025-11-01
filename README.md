@@ -10,3 +10,6 @@ un nouvelle modification
 - Calcul mathématique
 ## Fonctionnalités
 - Module de calcul
+
+Ce projet est un exercice pratique sur Git. (modification via GitHub)
+
